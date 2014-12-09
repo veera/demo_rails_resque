@@ -1,6 +1,9 @@
 # Rails Application with Resque Job
 
 This rails application test the Bugsnag notification on resque job
+
+## Bugsnag
+
 Add your Bugsnag API Key on bugsnag.rb
 
 ## Installation
